@@ -1,0 +1,17 @@
+com\company\inventory\model\Category.class
+com\company\inventory\respnose\CategoryResponseRest.class
+com\company\inventory\controller\ProductRestController.class
+com\company\inventory\respnose\ResponseRest.class
+com\company\inventory\util\Util.class
+com\company\inventory\dao\ICategoryDao.class
+com\company\inventory\services\CategoryServiceImpl.class
+com\company\inventory\InventorySp3Application.class
+com\company\inventory\services\IProductService.class
+com\company\inventory\respnose\CategoryResponse.class
+com\company\inventory\respnose\ProductResponse.class
+com\company\inventory\dao\IProductDao.class
+com\company\inventory\respnose\ProductResponseRest.class
+com\company\inventory\services\ICategoryService.class
+com\company\inventory\controller\CategoryRestController.class
+com\company\inventory\model\Product.class
+com\company\inventory\services\ProductServiceImpl.class

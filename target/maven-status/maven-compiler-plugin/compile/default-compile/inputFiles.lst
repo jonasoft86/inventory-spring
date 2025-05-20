@@ -1,0 +1,17 @@
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\controller\CategoryRestController.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\services\IProductService.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\model\Category.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\dao\IProductDao.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\respnose\CategoryResponse.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\respnose\ResponseRest.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\services\CategoryServiceImpl.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\services\ICategoryService.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\controller\ProductRestController.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\model\Product.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\respnose\ProductResponse.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\dao\ICategoryDao.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\respnose\ProductResponseRest.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\util\Util.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\InventorySp3Application.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\respnose\CategoryResponseRest.java
+C:\Users\jonat\Downloads\inventory-sp3\src\main\java\com\company\inventory\services\ProductServiceImpl.java
