@@ -19,7 +19,7 @@ import com.company.inventory.respnose.ProductResponseRest;
 import com.company.inventory.services.IProductService;
 import com.company.inventory.util.Util;
 
-@CrossOrigin(origins = {"http://localhost:4200"})
+@CrossOrigin(origins = {"http://inventory-front-angular.s3-website.us-east-2.amazonaws.com/"})
 @RestController
 @RequestMapping("/api/v1")
 public class ProductRestController {

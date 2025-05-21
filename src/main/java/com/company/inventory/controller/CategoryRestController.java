@@ -16,7 +16,7 @@ import com.company.inventory.model.Category;
 import com.company.inventory.respnose.CategoryResponseRest;
 import com.company.inventory.services.ICategoryService;
 
-@CrossOrigin(origins = {"http://localhost:4200"})
+@CrossOrigin(origins = {"http://inventory-front-angular.s3-website.us-east-2.amazonaws.com/"})
 @RestController
 @RequestMapping("/api/v1")
 public class CategoryRestController {
